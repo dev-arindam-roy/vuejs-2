@@ -3,25 +3,26 @@
 
 
 > **COMMANDS**
-
+---
 
 > **CORE VUE JS**
-
+---
 
 
 
 > **VUE ROUTER 3**
-
+---
 
 
 
 
 > **VUEX**
-
+---
 
 
 > **AXIOS**
-
+---
 
 
 > **PLUGINS**
+---
